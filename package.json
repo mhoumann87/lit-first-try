@@ -1,0 +1,23 @@
+{
+  "name": "lit-first-try",
+  "version": "1.0.0",
+  "description": "First try using lit-html",
+  "homepage": "https://github.com/mhoumann87/lit-first-try#readme",
+  "bugs": {
+    "url": "https://github.com/mhoumann87/lit-first-try/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mhoumann87/lit-first-try.git"
+  },
+  "license": "ISC",
+  "author": "Michael Houmann",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "lit": "^3.3.1"
+  }
+}
